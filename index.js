@@ -1,4 +1,4 @@
-const shapes = require("shapes.js")
+const shapes = require("./lib/shapes")
+const jest = require("jest")
 
 
-Test()
