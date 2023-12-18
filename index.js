@@ -1,3 +1,4 @@
-const shapes = require("./lib/shapes")
+const input = require("./lib/input")
 const jest = require("jest")
 
+input.getinput()
