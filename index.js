@@ -1,6 +1,7 @@
 const input = require("./lib/input")
-// first get the shape SVG line from shapes.js
-shape = input.getinput()
-// then send this shape line to writetofile.js to be written (and assemble text)
+// calls input, which then handles the shape decision in shapes.js
+input.getinput()
+
+
 
 
