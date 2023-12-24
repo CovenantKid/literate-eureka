@@ -1,5 +1,6 @@
 const input = require("./lib/input")
-const jest = require("jest")
-
+// first get the shape SVG line from shapes.js
 shape = input.getinput()
-console.log(shape)
+// then send this shape line to writetofile.js to be written (and assemble text)
+
+
