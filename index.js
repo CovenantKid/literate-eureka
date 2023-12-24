@@ -1,4 +1,5 @@
 const input = require("./lib/input")
 const jest = require("jest")
 
-input.getinput()
+shape = input.getinput()
+console.log(shape)
